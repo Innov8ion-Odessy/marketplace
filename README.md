@@ -30,7 +30,7 @@ This is a front-end-only web application of our NFT Marketplace  designed to pro
 
 ## Contributing
 
-While this repository primarily hosts the front-end code, we welcome contributions to enhance the user experience. If you'd like to contribute, please review our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
+While this repository primarily hosts the front-end code, we welcome contributions to enhance the user experience. If you'd like to contribute, please raise an issue about the changes you wanna make for details on how to get started.
 
 ## License
 
