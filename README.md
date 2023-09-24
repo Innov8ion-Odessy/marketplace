@@ -1,6 +1,8 @@
 # NFT Marketplace
 
-![hero-banner](https://github.com/PulsatingGenius/marketplace/assets/69569434/256a7f3d-d060-47e5-bf89-43c5ad637deb)
+<img src=https://github.com/PulsatingGenius/marketplace/assets/69569434/256a7f3d-d060-47e5-bf89-43c5ad637deb  style="height:300px">
+
+
 
 
 
